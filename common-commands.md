@@ -1,4 +1,4 @@
-`
+```
 init
 git remote add <myRemoteName> <theRemoteUrl>
 
@@ -19,4 +19,4 @@ merge <otherBranchName>
 
 reset --hard <commitID>
 clean -xdf
-`
+```
